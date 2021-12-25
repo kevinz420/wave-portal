@@ -1,15 +1,15 @@
-# Basic Sample Hardhat Project
+# Wave Portal 👋
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This dApp on the Rinkeby Testnet allows anyone with an Ethereum wallet to send me messages and potentially win some free money in the process! All messages are stored on-chain and transactions are all publicly available on Etherscan. 
 
-Try running some of the following tasks:
+Here is what sending a wave looks like:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+https://user-images.githubusercontent.com/54857388/147375765-c70a8cc6-8bca-4c7c-9231-e763bfb8cff3.mp4
+
+## Your Turn
+
+Feel free to try it out yourself. Send me a wave with your Rinkeby wallet at:
+
+➡️ https://waveportal.kvnzhang.repl.co/
+
+You can use a faucet site like [this](https://app.mycrypto.com/faucet) to get some Rinkeby test Ethereum for free.
